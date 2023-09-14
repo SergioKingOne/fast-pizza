@@ -20,5 +20,6 @@ module.exports = {
     "react/prop-types": "off",
     "react/jsx-key": "off",
     "react/no-unescaped-entities": "off",
+    'no-undef': 'warn',
   },
 };
