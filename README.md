@@ -34,15 +34,15 @@ The app's design palette includes the following colors from the Tailwind CSS pal
 # High-Level Architecture
 The "Fast Pizza" web app follows a client-server architecture:
 
-Frontend: Developed using React, Tailwind CSS, and Vite.
-Backend: No backend or database; data is managed in the frontend.
-Third-party API integration: BigDataCloud for GPS location.
+- Frontend: Developed using React, Tailwind CSS, and Vite.
+- Backend: No backend or database; data is managed in the frontend.
+- Third-party API integration: BigDataCloud for GPS location.
 
 # Components and Modules
-React Components: Organized into reusable components for UI elements, forms, and pizza items.
-Redux Store: Manages the app's state, including cart items and priority order status.
-React-Router: Handles navigation within the app.
-Third-Party API Module: Connects to the BigDataCloud API for GPS location.
+- React Components: Organized into reusable components for UI elements, forms, and pizza items.
+- Redux Store: Manages the app's state, including cart items and priority order status.
+- React-Router: Handles navigation within the app.
+- Third-Party API Module: Connects to the BigDataCloud API for GPS location.
 
 # 3. Technologies Used
 # Frontend Technologies
