@@ -98,3 +98,18 @@ Alternatively, they can set an order as "priority" even after completing the ord
 
 ## Order Lookup
 - Users can retrieve order details based on their unique order ID.
+
+# 6. Security
+## Data Encryption
+- Data is securely transmitted using HTTPS.
+
+## Protection of User Data (Temporary Storage)
+- User data is stored temporarily during the ordering process and is not persisted beyond the current session.
+
+# 7. User Interface
+## Design Palette (Colors)
+- Yellow, White, Black, Red, Green from Tailwind CSS palette.
+
+## UI/UX Considerations
+- User-friendly and responsive design.
+- Clear and intuitive navigation.
