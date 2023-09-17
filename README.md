@@ -73,3 +73,28 @@ The "Fast Pizza" web app follows a client-server architecture:
 # Priority Order Workflow
 Users can checkmark the "priority" option during the order process.
 Alternatively, they can set an order as "priority" even after completing the order.
+
+# 5. Features and Functionality
+## Pizza Menu Loading (External API)
+- The pizza menu is dynamically loaded from an external API.
+
+# User Input (Name, Phone Number, Address)
+- Users provide their name, phone number, and delivery address.
+
+# GPS Location Integration (BigDataCloud)
+- The BigDataCloud API is used to obtain GPS coordinates based on user input.
+
+# Adding Pizzas to Cart
+- Users can add multiple pizzas to the cart before placing an order.
+
+# Marking Orders as Priority
+- Users can mark orders as "priority" during the order process or afterward.
+
+# Order Submission
+- Orders are submitted via a POST request to the API, including user data and selected pizzas.
+
+# Unique Order ID Generation (Alphanumeric)
+- Unique order IDs are generated in alphanumeric format.
+
+# Order Lookup
+- Users can retrieve order details based on their unique order ID.
